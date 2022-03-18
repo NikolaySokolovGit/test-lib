@@ -7,4 +7,5 @@ setuptools.setup(
     url="https://github.com/pypa/samplepro",
     package_dir={"main": "main"},
     python_requires=">=3.6",
+    packages=["main"],
 )
