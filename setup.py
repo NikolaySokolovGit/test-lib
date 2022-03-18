@@ -1,5 +1,5 @@
 setuptools.setup(
-    name="test-value",
+    name="test_value",
     version="0.0.1",
     author="Example Author",
     author_email="author@example.com",
